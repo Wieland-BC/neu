@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: file:///C:\Users\Thomas Wieland\Documents\Publii\sites\wieland-bc-neu\preview/sitemap.xml
+Sitemap: https://wieland-bc.github.io/neu/sitemap.xml
