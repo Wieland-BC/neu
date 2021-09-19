@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Wieland Baumanagement Consult"
-permalink: /index
+permalink: /neu/home
 ---
 
 #Wieland Baumanagement Consult
