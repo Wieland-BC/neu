@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Wieland Baumanagement Consult"
 permalink: /index
+---
 
 #Wieland Baumanagement Consult
 Lorem Ipsum
