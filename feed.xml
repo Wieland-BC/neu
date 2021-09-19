@@ -3,12 +3,49 @@
     <title>Wieland-BC-neu</title>
     <link href="https://wieland-bc.github.io/neu/feed.xml" rel="self" />
     <link href="https://wieland-bc.github.io/neu" />
-    <updated>2021-09-19T19:07:19+02:00</updated>
+    <updated>2021-09-19T20:06:07+02:00</updated>
     <author>
         <name>Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland</name>
     </author>
     <id>https://wieland-bc.github.io/neu</id>
 
+    <entry>
+        <title>Offene Stellen</title>
+        <author>
+            <name>Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland</name>
+        </author>
+        <link href="https://wieland-bc.github.io/neu/offene-stellen.html"/>
+        <id>https://wieland-bc.github.io/neu/offene-stellen.html</id>
+
+        <updated>2021-09-19T20:06:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <h2>Ingenieur Bauwesen (m/w/d) (Diplom, Master, Bachelor)</h2>
+<p>Ort: Bundesweit</p>
+<h2>Architekt (m/w/d)</h2>
+<p>Ort: Bundesweit</p>
+<h2>Werkstudent (m/w/d) Architektur</h2>
+<p>Ort: Bundesweit</p>
+<h2>Werkstudent (m/w/d) Bauingenieurswesen</h2>
+<p>Ort: Bundesweit</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Ingenieur Bauwesen (m/w/d) (Diplom, Master, Bachelor)</h2>
+<p>Ort: Bundesweit</p>
+<h2>Architekt (m/w/d)</h2>
+<p>Ort: Bundesweit</p>
+<h2>Werkstudent (m/w/d) Architektur</h2>
+<p>Ort: Bundesweit</p>
+<h2>Werkstudent (m/w/d) Bauingenieurswesen</h2>
+<p>Ort: Bundesweit</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Referenzen</title>
         <author>
@@ -17,7 +54,7 @@
         <link href="https://wieland-bc.github.io/neu/referenzen.html"/>
         <id>https://wieland-bc.github.io/neu/referenzen.html</id>
 
-        <updated>2021-09-19T19:07:19+02:00</updated>
+        <updated>2021-09-19T20:02:12+02:00</updated>
             <summary>
                 <![CDATA[
                      Weltweite Krankenhausprojekte Bürohochhäuser Öffentliche Bauten Sportarenen Logistikhallen Nachfolgend finden Sie einige Impressionen unserer bisherigen Projekte: 
@@ -27,7 +64,7 @@
             <![CDATA[
                 <ul style="list-style-type: circle;">
 <li>Weltweite Krankenhausprojekte</li>
-<li>Bürohochhäuser </li>
+<li>Bürohochhäuser</li>
 <li>Öffentliche Bauten</li>
 <li>Sportarenen</li>
 <li>Logistikhallen</li>
