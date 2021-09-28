@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://wieland-bc.github.io/neu/fuer-banken-und-investoren.html",
+            "url": "https://wieland-bc.github.io/neu/fuer-banken-und-investoren.html",
+            "title": "Für Banken und Investoren",
+            "summary": "Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema Baumonitoring. Vereinbaren Sie einen Termin!",
+            "content_html": "<p>Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema <strong>Baumonitoring</strong>.</p>\n<ul>\n<li class=\"m_526685803614616366MsoListParagraph\">Startbericht mit allen relevanten Projektdaten<u></u><u></u></li>\n<li class=\"m_526685803614616366MsoListParagraph\">Monatliche Projektstandsberichte<u></u><u></u></li>\n<li class=\"m_526685803614616366MsoListParagraph\">Abschlussbericht</li>\n<li>Sonderberichte</li>\n</ul>\n<p>Vereinbaren Sie einen Termin!</p>",
+            "author": {
+                "name": "Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-28T14:55:25+02:00",
+            "date_modified": "2021-09-28T14:55:25+02:00"
+        },
+        {
+            "id": "https://wieland-bc.github.io/neu/fuer-projektentwickler.html",
+            "url": "https://wieland-bc.github.io/neu/fuer-projektentwickler.html",
+            "title": "Für Projektentwickler",
+            "summary": "Wir sind Ihr zuverlässiger und kompetenter Partner in Entwicklungs- und Immobilienberatung. Mit langjähriger Erfahrung unterstützen wir Sie bei Vereinbaren Sie einen Termin!",
+            "content_html": "<p>Wir sind Ihr zuverlässiger und kompetenter Partner in Entwicklungs- und Immobilienberatung. Mit langjähriger Erfahrung unterstützen wir Sie bei</p>\n<ul>\n<li>Baurechtschaffung<u></u><u></u></li>\n<li>Grundstücksmanagement (Koordination EDD TDD LDD Artenschutz Kampfmittel)<u></u></li>\n<li>Bauantragsmanagement  (Koordination Architekt und Sachverständige (BS Verkehr Lärm Entwässerung)<u></u><u></u></li>\n<li>Vertragsmanagement (Koordination GU Vertrag Mietvertrag und DMA)<u></u><u></u></li>\n<li>Mieter- und Investorenbetreuung<u></u><u></u></li>\n<li>Projektsteuerung (Koordination GU und Sachverständige)<u></u><u></u></li>\n<li>Abnahme und Übergabe an den Mieter<u></u><u></u></li>\n<li>Mängelmanagement<u></u><u></u></li>\n<li>Claims- und Contractmanagement</li>\n</ul>\n<p>Vereinbaren Sie einen Termin!</p>",
+            "author": {
+                "name": "Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-28T14:53:27+02:00",
+            "date_modified": "2021-09-28T14:53:27+02:00"
+        },
+        {
             "id": "https://wieland-bc.github.io/neu/offene-stellen.html",
             "url": "https://wieland-bc.github.io/neu/offene-stellen.html",
             "title": "Offene Stellen",
@@ -69,16 +97,16 @@
         {
             "id": "https://wieland-bc.github.io/neu/unsere-leistungen.html",
             "url": "https://wieland-bc.github.io/neu/unsere-leistungen.html",
-            "title": "Unsere Leistungen",
-            "summary": "Wir sind Ihr kompetenter Ansprechpartner in allen Fragen rund um das Thema Baumanagement. Von der Bauherrenvertretung über Projektsteuerung bis hin zum Claims- und Contract-Management sind wir der professionelle Partner an Ihrer Seite. Das Krisenmanagement von Havariebaustellen ist bei uns in sicheren Händen. Als eines der wenigen Ingenieurbüros haben wir uns auch auf die Projektmediation spezialisiert. Hierbei profitieren Sie&hellip;",
-            "content_html": "<p>Wir sind Ihr kompetenter Ansprechpartner in allen Fragen rund um das Thema Baumanagement.</p>\n<ul>\n<li>Von der Bauherrenvertretung über Projektsteuerung bis hin zum Claims- und Contract-Management sind wir der professionelle Partner an Ihrer Seite.</li>\n<li>Das Krisenmanagement von Havariebaustellen ist bei uns in sicheren Händen. Als eines der wenigen Ingenieurbüros haben wir uns auch auf die Projektmediation spezialisiert.</li>\n<li>Hierbei profitieren Sie von unserer langjährigen Erfahrung in der deutschen und globalen Bauwirtschaft.</li>\n</ul>",
+            "title": "Für Bauherren und Investoren",
+            "summary": "Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema Bauherrenvertretung. Vereinbaren Sie einen Termin! ",
+            "content_html": "<p>Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema <strong>Bauherrenvertretung</strong>.</p>\n<ul>\n<li>wir beraten Sie anbieterunabhängig und neutral vor und während eines Bauvorhabens</li>\n<li>wir unterstützen Sie bei der Dienstleister-Auswahl</li>\n<li>wir zeigen Ihnen mögliche Schwachstellen Ihrer Vertragskonstellationen auf</li>\n<li>wir erarbeiten mit Ihnen konkrete Schritte zur Risikoreduzierung</li>\n<li>wir vermitteln in Ihrem Auftrag zwischen beteiligten Auftragnehmern im Konfliktfall</li>\n</ul>\n<p>Vereinbaren Sie einen Termin! </p>",
             "author": {
                 "name": "Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland"
             },
             "tags": [
             ],
             "date_published": "2021-09-19T18:42:04+02:00",
-            "date_modified": "2021-09-19T20:28:28+02:00"
+            "date_modified": "2021-09-28T14:54:19+02:00"
         }
     ]
 }
