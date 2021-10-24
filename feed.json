@@ -13,7 +13,7 @@
         {
             "id": "https://wieland-bc.github.io/de/fuer-banken-und-investoren.html",
             "url": "https://wieland-bc.github.io/de/fuer-banken-und-investoren.html",
-            "title": "Für Banken und Investoren",
+            "title": "Für Banken",
             "summary": "Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema Baumonitoring. Vereinbaren Sie einen Termin!",
             "content_html": "<p>Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema <strong>Baumonitoring</strong>.</p>\n<ul>\n<li class=\"m_526685803614616366MsoListParagraph\">Startbericht mit allen relevanten Projektdaten<u></u><u></u></li>\n<li class=\"m_526685803614616366MsoListParagraph\">Monatliche Projektstandsberichte<u></u><u></u></li>\n<li class=\"m_526685803614616366MsoListParagraph\">Abschlussbericht</li>\n<li>Sonderberichte</li>\n</ul>\n<p>Vereinbaren Sie einen Termin!</p>",
             "author": {
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2021-09-28T14:55:25+02:00",
-            "date_modified": "2021-09-28T14:55:25+02:00"
+            "date_modified": "2021-10-24T21:31:05+02:00"
         },
         {
             "id": "https://wieland-bc.github.io/de/fuer-projektentwickler.html",
@@ -97,16 +97,16 @@
         {
             "id": "https://wieland-bc.github.io/de/unsere-leistungen.html",
             "url": "https://wieland-bc.github.io/de/unsere-leistungen.html",
-            "title": "Für Bauherren und Investoren",
+            "title": "Für Investoren",
             "summary": "Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema Bauherrenvertretung. Vereinbaren Sie einen Termin! ",
-            "content_html": "<p>Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema <strong>Bauherrenvertretung</strong>.</p>\n<ul>\n<li>wir beraten Sie anbieterunabhängig und neutral vor und während eines Bauvorhabens</li>\n<li>wir unterstützen Sie bei der Dienstleister-Auswahl</li>\n<li>wir zeigen Ihnen mögliche Schwachstellen Ihrer Vertragskonstellationen auf</li>\n<li>wir erarbeiten mit Ihnen konkrete Schritte zur Risikoreduzierung</li>\n<li>wir vermitteln in Ihrem Auftrag zwischen beteiligten Auftragnehmern im Konfliktfall</li>\n</ul>\n<p>Vereinbaren Sie einen Termin! </p>",
+            "content_html": "<p>Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema <strong>Bauherrenvertretung</strong>.</p>\n<ul>\n<li>wir beraten Sie anbieterunabhängig und neutral vor und während einer Investition</li>\n<li>wir unterstützen Sie bei der Projekt-Auswahl</li>\n<li>wir zeigen Ihnen mögliche Schwachstellen Ihrer Vertragskonstellationen auf</li>\n<li>wir erarbeiten mit Ihnen konkrete Schritte zur Risikoreduzierung</li>\n<li>wir vermitteln in Ihrem Auftrag zwischen beteiligten Auftragnehmern im Konfliktfall</li>\n</ul>\n<p>Vereinbaren Sie einen Termin! </p>",
             "author": {
                 "name": "Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland"
             },
             "tags": [
             ],
             "date_published": "2021-09-19T18:42:04+02:00",
-            "date_modified": "2021-09-28T14:54:19+02:00"
+            "date_modified": "2021-10-24T21:29:59+02:00"
         }
     ]
 }
