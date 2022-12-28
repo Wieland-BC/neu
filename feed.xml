@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>de</title>
     <link href="https://www.wieland-bc.de/feed.xml" rel="self" />
     <link href="https://www.wieland-bc.de" />
-    <updated>2022-12-05T21:25:33+01:00</updated>
+    <updated>2022-12-28T17:34:24+01:00</updated>
     <author>
         <name>Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2021-10-24T22:13:39+02:00</updated>
             <summary>
                 <![CDATA[
-                    Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema Baumonitoring. Vereinbaren Sie einen Termin! 
+                    Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema Baumonitoring. Vereinbaren Sie einen Termin!
                 ]]>
             </summary>
         <content type="html">
@@ -33,7 +33,7 @@
 <li>Sonderberichte</li>
 </ul>
 <p>Vereinbaren Sie einen Termin!</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/7/visual-stories-micheile-ZVprbBmT8QA-unsplash.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-md.jpg 768w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-2xl.jpg 1600w"  alt="Photo by &lt;a href=&quot;https://unsplash.com/@micheile?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Visual Stories || Micheile&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/banking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;   " width="2048" height="1365"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/7/visual-stories-micheile-ZVprbBmT8QA-unsplash.jpg" alt="Photo by &lt;a href=&quot;https://unsplash.com/@micheile?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Visual Stories || Micheile&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/banking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;   " width="2048" height="1365" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-md.jpg 768w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/7/responsive/visual-stories-micheile-ZVprbBmT8QA-unsplash-2xl.jpg 1600w"></figure>
 <p> </p>
             ]]>
         </content>
@@ -49,7 +49,7 @@
         <updated>2021-10-24T22:17:47+02:00</updated>
             <summary>
                 <![CDATA[
-                    Wir sind Ihr zuverlässiger und kompetenter Partner in Entwicklungs- und Immobilienberatung. Mit langjähriger Erfahrung unterstützen wir Sie bei Vereinbaren Sie einen Termin! 
+                    Wir sind Ihr zuverlässiger und kompetenter Partner in Entwicklungs- und Immobilienberatung. Mit langjähriger Erfahrung unterstützen wir Sie bei Vereinbaren Sie einen Termin!
                 ]]>
             </summary>
         <content type="html">
@@ -67,7 +67,7 @@
 <li>Claims- und Contractmanagement</li>
 </ul>
 <p>Vereinbaren Sie einen Termin!</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/6/krakenimages-Y5bvRlcCx8k-unsplash_quad.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-md.jpg 768w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-2xl.jpg 1600w"  alt="" width="2048" height="2048"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/6/krakenimages-Y5bvRlcCx8k-unsplash_quad.jpg" alt="" width="2048" height="2048" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-md.jpg 768w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/6/responsive/krakenimages-Y5bvRlcCx8k-unsplash_quad-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -79,23 +79,27 @@
         <link href="https://www.wieland-bc.de/offene-stellen.html"/>
         <id>https://www.wieland-bc.de/offene-stellen.html</id>
 
-        <updated>2022-12-05T21:25:33+01:00</updated>
+        <updated>2022-12-28T17:34:24+01:00</updated>
             <summary>
                 <![CDATA[
-                    Ingenieur Bauwesen als Projektsteuerer (m/w/d) (Diplom, Master, Bachelor) Ort: Bad Camberg, Hessen Bauvorlageberechtigung erwünscht. Ort: Bad Camberg, Hessen Ort: Bad Camberg, Hessen 
+                    Ingenieur Bauwesen als Projektsteuerer (m/w/d) (Diplom, Master, Bachelor) Ort: Bad Camberg, Hessen Bauvorlageberechtigung erwünscht. Ort: Bad Camberg, Hessen Ort: Bad Camberg, Hessen
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Ingenieur Bauwesen als Projektsteuerer (m/w/d) (Diplom, Master, Bachelor)</h2>
 <p>Ort: Bad Camberg, Hessen</p>
+<figure class="post__image"><a href="https://www.wieland-bc.de/WBC_Stellenausschreibung Projektsteuerer Bad Camberg.pdf" title="Download Stellenausschreibung als PDF" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/3/38/Icon_pdf_file.svg" alt="Download PDF. Image Attribution: Koreller, CC0, via Wikimedia Commons" width="64" height="73" data-is-external-image="true"></figure></a></p>
+<hr>
 <h2>Architekt (m/w/d) für die Erstellung von Bauanträgen Leistungsphase IV</h2>
 <p>Bauvorlageberechtigung erwünscht.</p>
 <p>Ort: Bad Camberg, Hessen</p>
+<figure class="post__image"><a href="https://www.wieland-bc.de/WBC_Stellenausschreibung Architekt Bad Camberg.pdf" title="Download Stellenausschreibung als PDF" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/3/38/Icon_pdf_file.svg" alt="Download PDF. Image Attribution: Koreller, CC0, via Wikimedia Commons" width="64" height="73" data-is-external-image="true"></figure></a></p>
+<hr>
 <h2>Werkstudent (m/w/d) Architektur oder</h2>
 <h2>Bauingenieurswesen</h2>
 <p>Ort: Bad Camberg, Hessen</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/5/scott-blake-x-ghf9LjrVg-unsplash.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-md.jpg 768w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-2xl.jpg 1600w"  alt="Photo by &lt;a href=&quot;https://unsplash.com/@huntersrace?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Hunters Race&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/banking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;   " width="798" height="532"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/5/scott-blake-x-ghf9LjrVg-unsplash.jpg" alt="Photo by &lt;a href=&quot;https://unsplash.com/@huntersrace?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Hunters Race&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/banking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;   " width="798" height="532" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-md.jpg 768w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/5/responsive/scott-blake-x-ghf9LjrVg-unsplash-2xl.jpg 1600w"></figure>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -117,7 +121,7 @@
         <updated>2021-10-24T21:31:54+02:00</updated>
             <summary>
                 <![CDATA[
-                    Wir verfügen über langjährige Erfahrungen in verschiedenen Branchen. Unser Team von Bauingenieuren und Kaufleuten hat neben einer sehr guten Ausbildung an der Hochschule laufend Weiterbildungen eingeplant und sein Wissen in der Praxis im In- und Ausland vertieft. Dazu zählen unter anderem: Nachfolgend finden Sie einige Impressionen unserer bisherigen Projekte: 
+                    Wir verfügen über langjährige Erfahrungen in verschiedenen Branchen. Unser Team von Bauingenieuren und Kaufleuten hat neben einer sehr guten Ausbildung an der Hochschule laufend Weiterbildungen eingeplant und sein Wissen in der Praxis im In- und Ausland vertieft. Dazu zählen unter anderem: Nachfolgend finden Sie einige Impressionen unserer bisherigen Projekte:
                 ]]>
             </summary>
         <content type="html">
@@ -318,7 +322,7 @@
         <content type="html">
             <![CDATA[
                 <h2>Erfahrungen</h2>
-<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/2/Wieland_klein.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-md.jpg 768w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-2xl.jpg 1600w"  alt="Frank D. Wieland, Gründer Wieland Baumanagement Consult" width="114" height="151" align="left"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/2/Wieland_klein.jpg" alt="Frank D. Wieland, Gründer Wieland Baumanagement Consult" width="114" height="151" align="left" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-md.jpg 768w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/2/responsive/Wieland_klein-2xl.jpg 1600w"></figure>
 <p>Der Gründer Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland hat Erfahrungen in nationalen und internationalen Projekten gesammelt. Seine Kenntnisse reichen vom Industrie- und Gewerbebau über Krankenhausbau bis hin zum Büro- und Hochhausbau im zweistelligen Millionenbereich. Als ausgebildeter <strong>Wirtschaftsmediator </strong>und langjährige <strong>Führungskraft </strong>ist Frank Wieland ein idealer Berater in allen Belangen des Baumanagements. </p>
 <h2>Team</h2>
 <p>Wir sind ein eingespieltes Team aus jungen und erfahrenen Bauingenieuren, Kaufleuten und Architekten. Der Nachwuchs wird gesichert durch kontinuierlichen Einsatz von Werkstudenten des Bauingenieurswesen und Architektur.</p>
@@ -343,7 +347,7 @@
         <updated>2021-10-24T22:13:15+02:00</updated>
             <summary>
                 <![CDATA[
-                    Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema Bauherrenvertretung. Vereinbaren Sie einen Termin! 
+                    Wir sind Ihr durchsetzungsstarker Vertreter in allen Fragen rund um das Thema Bauherrenvertretung. Vereinbaren Sie einen Termin!
                 ]]>
             </summary>
         <content type="html">
@@ -357,7 +361,7 @@
 <li>wir vermitteln in Ihrem Auftrag zwischen beteiligten Auftragnehmern im Konfliktfall</li>
 </ul>
 <p>Vereinbaren Sie einen Termin!</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/1/hunters-race-MYbhN8KaaEc-unsplash.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-md.jpg 768w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-2xl.jpg 1600w"  alt="Photo by &lt;a href=&quot;https://unsplash.com/@huntersrace?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Hunters Race&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/banking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;   " width="1024" height="683"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.wieland-bc.de/media/posts/1/hunters-race-MYbhN8KaaEc-unsplash.jpg" alt="Photo by &lt;a href=&quot;https://unsplash.com/@huntersrace?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Hunters Race&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/banking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;   " width="1024" height="683" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-xs.jpg 300w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-sm.jpg 480w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-md.jpg 768w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-lg.jpg 1024w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-xl.jpg 1360w ,https://www.wieland-bc.de/media/posts/1/responsive/hunters-race-MYbhN8KaaEc-unsplash-2xl.jpg 1600w"></figure>
 <p> </p>
 <p> </p>
             ]]>
